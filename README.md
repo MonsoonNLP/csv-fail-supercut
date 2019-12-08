@@ -8,6 +8,10 @@ I originally pitched this project as:
 
 I wanted to include others' previous work on parsing CSV / data sources in general, to offer as many examples as possible
 
+- https://github.com/pplonski/datasets-for-start
+- https://martinjc.github.io/UK-GeoJSON/
+- https://github.com/maxogden/csv-spectrum
+
 ## Work in progress
 
 In the future ideally there would be a data browser, where you can programmatically review the dataset and determine its problems
